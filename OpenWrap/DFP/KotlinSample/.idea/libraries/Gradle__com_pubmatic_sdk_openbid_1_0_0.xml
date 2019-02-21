@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pubmatic.sdk:openbid-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/openbid-1.0.0.aar/ad266a30699f96ea51d4d68a1ef8b3e9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/openbid-1.0.0.aar/ad266a30699f96ea51d4d68a1ef8b3e9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pubmatic.sdk/openbid/1.0.0/f2de574b991c2b4d2407ea5acbc1387e9bdf6289/openbid-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

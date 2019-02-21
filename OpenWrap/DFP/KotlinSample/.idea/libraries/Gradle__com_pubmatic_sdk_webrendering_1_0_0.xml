@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pubmatic.sdk:webrendering-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/webrendering-1.0.0.aar/e4ec61408b90d9305ea3f72d49011643/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/webrendering-1.0.0.aar/e4ec61408b90d9305ea3f72d49011643/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pubmatic.sdk/webrendering/1.0.0/d3e3ba3f4391cf96b36ebb8a30516e0a7851e5e4/webrendering-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

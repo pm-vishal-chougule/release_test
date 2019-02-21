@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pubmatic.sdk:common-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-1.0.0.aar/e0ff05a3dab189ff605d5109ca5d9b1c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-1.0.0.aar/e0ff05a3dab189ff605d5109ca5d9b1c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
